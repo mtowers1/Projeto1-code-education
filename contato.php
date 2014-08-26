@@ -1,4 +1,4 @@
-<form class="form-horizontal" method="post" action="index.php?p=R">
+<form class="form-horizontal" method="post" action="../recebecontato">
   <div class="control-group">
     <label class="control-label" for="inputNome">Nome</label>
     <div class="controls">
